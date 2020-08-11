@@ -1,0 +1,10 @@
+程序开发拓展视野的文章
+
+1. Java后端到底是个啥？
+https://www.csdn.net/gather_23/NtDaYg3sOTY1LWJsb2cO0O0O.html
+
+2. 如何脱离黑框框写程序？
+https://www.bilibili.com/video/av80237712
+
+3. 大厂需求研发流程，提前认识，开拓视野
+https://www.bilibili.com/video/av91177983

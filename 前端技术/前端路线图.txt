@@ -1,0 +1,2 @@
+html + css +javascript
+ajax / cookies / 熟练使用开发者工具
